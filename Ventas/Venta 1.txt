@@ -1,0 +1,45 @@
+VENTA 1
+-------------------------------------------
+Fecha de venta: 30/6/23, 8:08 a. m.
+-------------------------------------------
+Productos comprados:
+-COMIDA 1:
+    -Unidades compradas: 1
+    >Nombre: Benedict
+    >Ingredientes: Carne de vacuno con huevo frito, salsa holandesa, bacon crujiente, queso cheddar, tomate, lechuga y salsa mayo-sriracha en pan brioche tostado con dos sésamos. Acompañada de guarnición a elegir y salsa baconesa.
+    >Precio por unidad (€): 13.4
+    >Precio total (1 unidades) (€):13.4
+
+-COMIDA 2:
+    -Unidades compradas: 3
+    >Nombre: Piri Piri Chicken
+    >Ingredientes: Contramuslos de jugoso pollo marinado en piri piri, con pico de gallo con mango y toques de hierbabuena, salsa mayo-sriracha ligeramente picante sobre lechuga y brotes en pan de cristal. Acompañado de guarnición a elegir y salsa mayo- sriracha.
+    >Precio por unidad (€): 11.6
+    >Precio total (3 unidades) (€):34.8
+
+-------------------------------------------
+-------------------------------------------
+Compra realizada por:
+-CLIENTE 3
+    >Nombre: Juan S.A
+    >CIF: 43434343T
+    >Correo: juan@gmail.com
+    >Teléfono: 111250933
+    >Dirección de envío:
+        -Calle: Talamanca
+        -Número: 3
+        -Código postal: 28842
+        -Ciudad: Madrid
+-------------------------------------------
+Precio de la compra: 44.88€
+-------------------------------------------
+Venta realizada por:
+-RESTAURANTE 3
+    >Nombre: VIPS
+    >CIF: Q16725493
+    >Dirección de la compra:
+        -Calle: Av de los Reyes Magos
+        -Número: 39
+        -Código postal: 28842
+        -Ciudad: Madrid
+-------------------------------------------
